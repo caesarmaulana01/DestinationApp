@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Array for Destination Names -->
+    <string-array name="data_name">
+        <item>Borobudur</item>
+        <item>Mount Bromo</item>
+        <item>Raja Ampat</item>
+        <item>Komodo Island</item>
+        <item>Bali</item>
+        <item>Lake Toba</item>
+        <item>Yogyakarta</item>
+        <item>Labuan Bajo</item>
+        <item>Wakatobi</item>
+        <item>Bunaken</item>
+    </string-array>
+
+    <!-- Array for Destination Locations -->
+    <string-array name="data_location">
+        <item>Magelang, Central Java</item>
+        <item>East Java</item>
+        <item>West Papua</item>
+        <item>East Nusa Tenggara</item>
+        <item>Bali</item>
+        <item>North Sumatra</item>
+        <item>Special Region of Yogyakarta</item>
+        <item>East Nusa Tenggara</item>
+        <item>Southeast Sulawesi</item>
+        <item>North Sulawesi</item>
+    </string-array>
+
+    <!-- Array for Destination Descriptions -->
+    <string-array name="data_description">
+        <item>Borobudur is a 9th-century Mahayana Buddhist temple located in Central Java, Indonesia, and is a UNESCO World Heritage Site. This massive temple, built with over two million stone blocks, features intricate carvings and 72 stupas surrounding a central dome. It serves as a pilgrimage site for Buddhists and offers breathtaking views of the surrounding lush green landscapes, especially during sunrise and sunset.</item>
+        <item>Mount Bromo is an active volcano in East Java and one of Indonesia most iconic tourist attractions. Visitors flock to its surrounding Tengger Caldera to witness the dramatic volcanic landscape, especially during sunrise, which offers a magical view of the steaming crater surrounded by mist. The area is also home to the Tenggerese people, who maintain unique traditions and rituals associated with the volcano.</item>
+        <item>Raja Ampat, located in West Papua, is famous for its unparalleled marine biodiversity and stunning underwater scenery. Known as a diver’s paradise, the archipelago boasts crystal-clear waters, vibrant coral reefs, and an abundance of marine life, including manta rays, sharks, and colorful fish. Its remote location and pristine beauty make it a must-visit destination for nature lovers and adventurers alike.</item>
+        <item>Komodo Island, part of the Komodo National Park in East Nusa Tenggara, is home to the world-famous Komodo dragons, the largest lizards on Earth. In addition to its unique wildlife, the island offers breathtaking landscapes, pristine beaches, and rich underwater ecosystems perfect for snorkeling and diving. The island’s rugged beauty and biodiversity make it a one-of-a-kind destination.</item>
+        <item>Bali, often called the "Island of the Gods," is a world-renowned island paradise known for its beautiful beaches, ancient temples, vibrant culture, and lush landscapes. Visitors can explore iconic spots like Uluwatu Temple, rice terraces in Ubud, or indulge in a mix of modern and traditional experiences, from luxury resorts to traditional Balinese ceremonies. Bali offers something for everyone, from relaxation to adventure.</item>
+        <item>Lake Toba, located in North Sumatra, is the largest volcanic lake in the world, formed by a massive supervolcanic eruption thousands of years ago. At its center lies Samosir Island, where visitors can experience Batak culture, traditional villages, and serene landscapes. The lake calm waters and surrounding green hills create a tranquil atmosphere for relaxation and exploration.</item>
+        <item>Yogyakarta, a cultural hub in Central Java, is known for its rich heritage, traditional arts, and proximity to world-famous historical sites like Borobudur and Prambanan temples. The city is a vibrant blend of history and modernity, offering attractions like the Sultans Palace, Malioboro Street, and local crafts such as batik and silverwork. Its a destination that celebrates Indonesias cultural diversity.</item>
+        <item>Labuan Bajo, located in East Nusa Tenggara, serves as a gateway to the Komodo National Park and offers some of the most stunning sunsets in Indonesia. Visitors can explore nearby islands, snorkel in crystal-clear waters, or enjoy a boat trip to see Komodo dragons. The town is rapidly growing as a top destination for its scenic beauty and adventurous activities.</item>
+        <item>Wakatobi, located in Southeast Sulawesi, is a haven for divers and marine enthusiasts. Renowned for its pristine coral reefs and diverse marine life, Wakatobi offers underwater experiences that are unparalleled. The area is part of a national park, ensuring the preservation of its natural beauty. Visitors can also experience the unique culture of the local Bajo communities, who live in stilt houses over the water.</item>
+        <item>Bunaken, located in North Sulawesi, is a world-famous diving destination known for its incredible coral walls and marine biodiversity. The waters around Bunaken are part of a marine park, offering divers and snorkelers the chance to see vibrant coral gardens, turtles, and a variety of tropical fish. The island’s relaxed atmosphere and natural beauty make it an unforgettable escape for nature lovers.</item>
+    </string-array>
+
+
+    <!-- Array for Destination Photos -->
+    <array name="data_photo">
+        <item>@drawable/borobudur</item>
+        <item>@drawable/mount_bromo</item>
+        <item>@drawable/raja_ampat</item>
+        <item>@drawable/komodo_island</item>
+        <item>@drawable/bali</item>
+        <item>@drawable/lake_toba</item>
+        <item>@drawable/yogyakarta</item>
+        <item>@drawable/labuan_bajo</item>
+        <item>@drawable/wakatobi</item>
+        <item>@drawable/bunaken</item>
+    </array>
+</resources>
